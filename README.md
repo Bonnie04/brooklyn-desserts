@@ -1,23 +1,11 @@
-# Brooklyn Desserts
 
-Brooklyn Desserts is a full-stack website for a small dessert business based in Brooklyn.
+=======
+# Brooklyn Desserts – Frontend
 
-Customers can browse available desserts, see prices, and submit an order request.  
-The shop owner can view submitted orders and contact customers to complete the order.
+This folder contains the frontend of the Brooklyn Desserts website.
 
-## MVP Features
-
-- View a list of desserts with prices
-- Submit an order request with contact information
-- Admin view for the shop owner to see all orders
-
-## Tech Stack
-
-- Frontend: React + JavaScript
-- Backend: Node.js + Express
-- Database: PostgreSQL
-
-## Project Structure
-
-- `frontend/` – Client-side React application
-- `backend/` – Server-side API and database logic
+The frontend is responsible for:
+- Displaying desserts and prices
+- Allowing customers to submit an order request
+- Communicating with the backend API
+>>>>>>> 1fefb4c (Add frontend and backend README content)
